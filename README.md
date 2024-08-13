@@ -1,8 +1,13 @@
 ## 👋 Introduction
+
+Hi there, nice to meet you! 👋 
+I'm KariSims, Data Scientist, in bulk :relaxed:
+I'm not really great at writing introductions, please bear with me
+
 <div id="header" align="center">
   <p><b> Hi there, nice to meet you! 👋 </b></p>
   <p> I'm KariSims, Data Scientist, in bulk :relaxed: </p>
-  <p>I'm not really great at writing introductions, please bear with me </p>
+  <p> I'm not really great at writing introductions, please bear with me </p>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -29,5 +34,6 @@ Here are some ideas to get you started:
 <div align="center">
 <p> I'm an engineer / data scientist from Africa. with an academic degree in Statistics and IT </p>
   ## In Statistics, as skills :
-  
 </div>
+I'm an engineer / data scientist from Africa. with an academic degree in Statistics and IT </p>
+  ## In Statistics, as skills :
