@@ -41,6 +41,7 @@ I assist individuals and companies in designing studies, including market resear
                 - Data Collection : on tablette, cell phone with [ODK/KoboToolbox](https://www.kobotoolbox.org/about-us/), 
                                     [CSPro](https://www.csprousers.org/help/CSPro/what_is_cspro.html), [CommCare](https://dimagi.com/commcare/)
                 
+                
                 - Processing and Analysis : Python, R (Shiny, etc.), SPSS, CSPro, [QGIS](https://qgis.org/)
                               <div>
                                  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
