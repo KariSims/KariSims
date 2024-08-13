@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an engineer / data scientist from Africa and an entrepreneur in my spare time. With an academic degree in Statistics and IT
+I'm an engineer / data scientist from Africa and an entrepreneur in my spare time. With an academic degree in Statistics and IT.
 I'm strongly interested in the fields of finance, health and agriculture... although so far, I've been more involved in health-related projects during my years of professional experience.
 
 I assist individuals and companies in designing studies, including market research, etc. Implementation of data collection, processing and analysis solutions. Implementation and deployment of predictive machine learning models. Also in staff training... with my structure, BREST(`Bureau de Recherches, d’Etudes Statistiques et Technologiques`). <br>
