@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  ## Hi there, nice to meet you! 👋
+  <p><b> Hi there, nice to meet you! 👋 </b></p>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
