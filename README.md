@@ -38,6 +38,7 @@ I assist individuals and companies in designing studies, including market resear
 :paperclip: Database design and management (Relational and NOSql) <br>
 :paperclip: Data Warehouse Management <br>
 :paperclip: Web and Mobile Programming(Ionic, Cordova) <br>
+:paperclip: Linux Shell <br>
 
 ### :pushpin: ML :<br>
 [Cf. repos](https://github.com/KariSims/DataScience)
