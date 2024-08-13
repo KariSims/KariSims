@@ -66,3 +66,7 @@ I'm counting on you, the community, to always keep an eye on my account, because
 It's a passion that I know I share with many of you :handshake:.
 
 Please feel free to consult my rests...
+
+---
+## :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KariSims&theme=dark&background=000000)](https://git.io/streak-stats)
