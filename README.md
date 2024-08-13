@@ -33,11 +33,22 @@ Here are some ideas to get you started:
 
 
 I'm an engineer / data scientist from Africa and an entrepreneur in my spare time. With an academic degree in Statistics and IT
+I'm strongly interested in the fields of finance, health and agriculture... although so far, I've been more involved in health-related projects during my years of professional experience.
+
 I assist individuals and companies in designing studies, including market research, etc. Implementation of data collection, processing and analysis solutions. Implementation and deployment of predictive machine learning models. Also in staff training... with my structure, BREST(`Bureau de Recherches, d’Etudes Statistiques et Technologiques`).
 
   **In Statistics, as skills :**
-                              - 
+                              - Data Collection : on tablette, cell phone with [ODK/KoboToolbox](https://www.kobotoolbox.org/about-us/), [CSPro](https://www.csprousers.org/help/CSPro/what_is_cspro.html), [CommCare](https://dimagi.com/commcare/)
+
+                              - Processing and Analysis : Python, R (Shiny, etc.), SPSS, CSPro, [QGIS](https://qgis.org/)
+                              <div>
+                              <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+                              </div>
+
+  **IT :**
+
 
 ## ⚡ Futures projects :
 I'm counting on you, the community, to always keep an eye on my account, because you'll find fun and serious projects in the field so that I can continue to progress :rocket:, and don't hesitate to invite me to interesting projects involving datascience.
+
 It's a passion that I know I share with many of you :handshake:.
