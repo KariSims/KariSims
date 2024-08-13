@@ -37,13 +37,16 @@ I'm strongly interested in the fields of finance, health and agriculture... alth
 I assist individuals and companies in designing studies, including market research, etc. Implementation of data collection, processing and analysis solutions. Implementation and deployment of predictive machine learning models. Also in staff training... with my structure, BREST(`Bureau de Recherches, d’Etudes Statistiques et Technologiques`).
 
 ### :pushpin: In Statistic, as skills :<br>
-:paperclip: Data Collection : on tablette, cell phone with [ODK/KoboToolbox](https://www.kobotoolbox.org/about-us/), [CSPro](https://www.csprousers.org/help/CSPro/what_is_cspro.html), [CommCare](https://dimagi.com/commcare/).<br>
+:paperclip: Data Collection : on tablette, cell phone with [ODK/KoboToolbox](https://www.kobotoolbox.org/about-us/), [CSPro](https://github.com/KariSims/projectsCSPRO), [CommCare](https://dimagi.com/commcare/).<br>
 :paperclip: Processing and Analysis : Python, R (Shiny, etc.), SPSS, CSPro, [QGIS](https://qgis.org/)<br>
 
 ### :pushpin: IT, as skills :<br>
-:paperclip: Conception et Gestion de base de données(Relationnel et NOSql) <br>
-:paperclip: Management d’Entrepôt des données <br>
-:paperclip: Programmation Web et Mobile(Ionic) <br>
+:paperclip: Database design and management (Relational and NOSql) <br>
+:paperclip: Data Warehouse Management <br>
+:paperclip: Web and Mobile Programming(Ionic) <br>
+
+### :pushpin: ML :<br>
+[Cf. repos](https://github.com/KariSims/DataScience)
   
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -67,3 +70,5 @@ I assist individuals and companies in designing studies, including market resear
 I'm counting on you, the community, to always keep an eye on my account, because you'll find fun and serious projects in the field so that I can continue to progress :rocket:, and don't hesitate to invite me to interesting projects involving datascience.
 
 It's a passion that I know I share with many of you :handshake:.
+
+Please feel free to consult my rests...
