@@ -31,5 +31,13 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I'm an engineer / data scientist from Africa. with an academic degree in Statistics and IT </p>
+
+I'm an engineer / data scientist from Africa and an entrepreneur in my spare time. With an academic degree in Statistics and IT
+I assist individuals and companies in designing studies, including market research, etc. Implementation of data collection, processing and analysis solutions. Implementation and deployment of predictive machine learning models. Also in staff training... with my structure, BREST(`Bureau de Recherches, d’Etudes Statistiques et Technologiques`).
+
   **In Statistics, as skills :**
+                              - 
+
+## ⚡ Futures projects :
+I'm counting on you, the community, to always keep an eye on my account, because you'll find fun and serious projects in the field so that I can continue to progress :rocket:, and don't hesitate to invite me to interesting projects involving datascience.
+It's a passion that I know I share with many of you :handshake:.
