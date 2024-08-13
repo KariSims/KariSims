@@ -38,8 +38,8 @@ I'm strongly interested in the fields of finance, health and agriculture... alth
 I assist individuals and companies in designing studies, including market research, etc. Implementation of data collection, processing and analysis solutions. Implementation and deployment of predictive machine learning models. Also in staff training... with my structure, BREST(`Bureau de Recherches, d’Etudes Statistiques et Technologiques`).
 
   **- In Statistic, as skills** : <br>
-                             <center>- *Data Collection*</center> : on tablette, cell phone with [ODK/KoboToolbox](https://www.kobotoolbox.org/about-us/), [CSPro](https://www.csprousers.org/help/CSPro/what_is_cspro.html), [CommCare](https://dimagi.com/commcare/). <br>
-                             <center>- *Processing and Analysis*</center> : Python, R (Shiny, etc.), SPSS, CSPro, [QGIS](https://qgis.org/)
+                             - <center>*Data Collection*</center> : on tablette, cell phone with [ODK/KoboToolbox](https://www.kobotoolbox.org/about-us/), [CSPro](https://www.csprousers.org/help/CSPro/what_is_cspro.html), [CommCare](https://dimagi.com/commcare/). <br>
+                             - <center>*Processing and Analysis*</center> : Python, R (Shiny, etc.), SPSS, CSPro, [QGIS](https://qgis.org/)
                              
 
   **- IT, as skills** :
