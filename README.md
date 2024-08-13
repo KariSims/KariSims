@@ -39,11 +39,13 @@ I assist individuals and companies in designing studies, including market resear
 
   :pushpin: **In Statistic, as skills** : <br>
                              <center>:paperclip: *Data Collection*</center> : on tablette, cell phone with [ODK/KoboToolbox](https://www.kobotoolbox.org/about-us/), [CSPro](https://www.csprousers.org/help/CSPro/what_is_cspro.html), [CommCare](https://dimagi.com/commcare/). <br>
-                             <center>:paperclip: *Processing and Analysis*</center> : 
+                             <center>:paperclip: *Processing and Analysis*</center> : [QGIS](https://qgis.org/)
+                             <div>
                             	  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
-                               <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;&nbsp;
+                               <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/> (Shiny, etc.) &nbsp;&nbsp;
                                <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;&nbsp;
-
+                               <p></p>
+                             </div>
                              
 
   :pushpin: **IT, as skills** :
