@@ -33,6 +33,7 @@ I assist individuals and companies in designing studies, including market resear
 ### :pushpin: In Statistic, as skills :<br>
 :paperclip: Data Collection : on tablette, cell phone with [ODK/KoboToolbox](https://www.kobotoolbox.org/about-us/), [CSPro](https://github.com/KariSims/projectsCSPRO), [CommCare](https://dimagi.com/commcare/).<br>
 :paperclip: Processing and Analysis : Python, R (Shiny, etc.), SPSS, CSPro, [QGIS](https://qgis.org/)<br>
+:paperclip: Visualisation : Python, R (Shiny, etc.), Power BI<br>
 
 ### :pushpin: IT, as skills :<br>
 :paperclip: Database design and management (Relational and NOSql) <br>
