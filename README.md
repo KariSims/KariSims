@@ -1,5 +1,7 @@
 <div id="header" align="center">
   <p><b> Hi there, nice to meet you! 👋 </b></p>
+  <p> Am KariSims, Data Scientist, in bulk :relaxed: </p>
+  <p>Am francophone, so let me tell you about me in French </p>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
