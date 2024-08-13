@@ -37,9 +37,9 @@ I'm strongly interested in the fields of finance, health and agriculture... alth
 I assist individuals and companies in designing studies, including market research, etc. Implementation of data collection, processing and analysis solutions. Implementation and deployment of predictive machine learning models. Also in staff training... with my structure, BREST(`Bureau de Recherches, d’Etudes Statistiques et Technologiques`).
 
 ### :pushpin: In Statistic, as skills :<br>
-<center>:paperclip: Data Collection </center> : on tablette, cell phone with [ODK/KoboToolbox](https://www.kobotoolbox.org/about-us/), [CSPro](https://www.csprousers.org/help/CSPro/what_is_cspro.html), [CommCare](https://dimagi.com/commcare/).<br>
+:paperclip: Data Collection : on tablette, cell phone with [ODK/KoboToolbox](https://www.kobotoolbox.org/about-us/), [CSPro](https://www.csprousers.org/help/CSPro/what_is_cspro.html), [CommCare](https://dimagi.com/commcare/).<br>
 
-<center>:paperclip: Processing and Analysis </center> : Python, R (Shiny, etc.), SPSS, CSPro, [QGIS](https://qgis.org/)<br>
+:paperclip: Processing and Analysis : Python, R (Shiny, etc.), SPSS, CSPro, [QGIS](https://qgis.org/)<br>
 
 ### :pushpin: IT, as skills :<br>
 <center>:paperclip: Conception et Gestion de base de données(Relationnel et NOSql) </center> <br>
@@ -56,6 +56,7 @@ I assist individuals and companies in designing studies, including market resear
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="IONIC" alt="IONIC" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
