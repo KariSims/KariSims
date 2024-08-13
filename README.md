@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
+</div><br>
 
 I'm an engineer / data scientist from Africa and an entrepreneur in my spare time. With an academic degree in Statistics and IT
 I'm strongly interested in the fields of finance, health and agriculture... although so far, I've been more involved in health-related projects during my years of professional experience.
@@ -39,17 +38,17 @@ I assist individuals and companies in designing studies, including market resear
 
 ### :pushpin: In Statistic, as skills :
 
-<center>:paperclip: *Data Collection* </center> : on tablette, cell phone with [ODK/KoboToolbox](https://www.kobotoolbox.org/about-us/), [CSPro](https://www.csprousers.org/help/CSPro/what_is_cspro.html), [CommCare](https://dimagi.com/commcare/).
+<center>:paperclip: Data Collection </center> : on tablette, cell phone with [ODK/KoboToolbox](https://www.kobotoolbox.org/about-us/), [CSPro](https://www.csprousers.org/help/CSPro/what_is_cspro.html), [CommCare](https://dimagi.com/commcare/).<br>
 
-<center>:paperclip: *Processing and Analysis*</center> : Python, R (Shiny, etc.), SPSS, CSPro, [QGIS](https://qgis.org/) 
+<center>:paperclip: Processing and Analysis </center> : Python, R (Shiny, etc.), SPSS, CSPro, [QGIS](https://qgis.org/)<br>
 
 ### :pushpin: IT, as skills :
 
-<center>:paperclip: *Conception et Gestion de base de données(Relationnel et NOSql)* </center> :
+<center>:paperclip: Conception et Gestion de base de données(Relationnel et NOSql) </center> :
 
-<center>:paperclip: *Management d’Entrepôt des données* </center> :
+<center>:paperclip: Management d’Entrepôt des données </center> :
 
-<center>:paperclip: *Programmation Web et Mobile(Ionic)* </center> :
+<center>:paperclip: Programmation Web et Mobile(Ionic) </center> :
   
 ### :hammer_and_wrench: Languages and Tools :
 
