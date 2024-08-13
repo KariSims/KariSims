@@ -43,7 +43,7 @@ I assist individuals and companies in designing studies, including market resear
 ### :pushpin: IT, as skills :<br>
 :paperclip: Database design and management (Relational and NOSql) <br>
 :paperclip: Data Warehouse Management <br>
-:paperclip: Web and Mobile Programming(Ionic) <br>
+:paperclip: Web and Mobile Programming(Ionic, Cordova) <br>
 
 ### :pushpin: ML :<br>
 [Cf. repos](https://github.com/KariSims/DataScience)
