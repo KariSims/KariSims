@@ -73,7 +73,7 @@ Please feel free to consult my rests...
 
 ---
 ## :fire: My Stats :
-![KariSims' GitHub stats](https://github-readme-stats.vercel.app/api?username=KariSims&card_height=300&show_icons=true)
+![KariSims' GitHub stats](https://github-readme-stats.vercel.app/api?username=KariSims&show_icons=true&line_height=27)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KariSims&langs_count=8&layout=compact)](https://github.com/KariSims/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KariSims&mode=weekly&card_width=770)](https://git.io/streak-stats)
