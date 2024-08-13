@@ -1,4 +1,4 @@
-## Introduction
+## 👋 Introduction
 <div id="header" align="center">
   <p><b> Hi there, nice to meet you! 👋 </b></p>
   <p> Am KariSims, Data Scientist, in bulk :relaxed: </p>
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+## 🛈 About Me
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
