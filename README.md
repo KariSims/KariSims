@@ -43,7 +43,7 @@ I assist individuals and companies in designing studies, including market resear
 :paperclip: Linux Shell <br>
 
 ### :pushpin: ML :<br>
-[Cf. repos](https://github.com/KariSims/DataScience)
+:zipper_mouth_face: :point_right: [Cf. repos](https://github.com/KariSims/DataScience)
   
 ### :hammer_and_wrench: Languages and Tools :
 
