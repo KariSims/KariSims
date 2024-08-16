@@ -2,11 +2,7 @@
 
   **Hi there, nice to meet you!** 👋
   
-  **I'm KariSims, Data Scientist, in bulk** :relaxed:
-  <div id="badges">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </div>
-  
+  **I'm KariSims, Data Scientist, in bulk** :relaxed:  
 I'm not really great at writing introductions, please bear with me
 
 <!--
