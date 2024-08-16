@@ -69,7 +69,7 @@ I'm counting on you, the community, to always keep an eye on my account, because
 
 It's a passion that I know I share with many of you :handshake:.
 
-Please feel free to consult my rests...
+Please feel free to consult my rests and like with the stars...
 
 ---
 ## :fire: My Stats :
