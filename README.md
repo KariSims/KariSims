@@ -2,7 +2,8 @@
 
   **Hi there, nice to meet you!** 👋
   
-  **I'm KariSims, Data Scientist, in bulk** :relaxed:  
+  **I'm KariSims, Data Scientist, in bulk** :relaxed:
+  
 I'm not really great at writing introductions, please bear with me
 
 <!--
