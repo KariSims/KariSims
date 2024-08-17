@@ -1,4 +1,5 @@
-## :information_source: About Me    <a href="https://www.linkedin.com/in/prince-simba"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+## :information_source: About Me    
+<a href="https://www.linkedin.com/in/prince-simba"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
   **Hi there, nice to meet you!** 👋
   
