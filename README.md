@@ -1,8 +1,9 @@
 ## :information_source: About Me 
 [<img align="left" alt="prince-simba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <div id="badges">
-  <a href="https://www.linkedin.com/in/prince-simba"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>][linkedin]
 </div>
+
 
   **Hi there, nice to meet you!** 👋
   
