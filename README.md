@@ -1,7 +1,7 @@
 ## :information_source: About Me 
 
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>][linkedin]
-[<img alt="prince-simba-portfolio | website" width="22px" src="https://github.com/KariSims/KariSims/blob/main/website.svg" alt="web site Badge"/>][web-site]
+[<img alt="prince-simba-portfolio | website" width="34px" src="https://github.com/KariSims/KariSims/blob/main/website.svg" alt="web site Badge"/>][web-site]
 
   **Hi there, nice to meet you!** 👋
   
@@ -83,3 +83,4 @@ Please feel free to consult my rests and like with the stars...
 
 
 [linkedin]: https://www.linkedin.com/in/prince-simba/
+[web-site]: https://karisims.github.io/
