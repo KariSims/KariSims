@@ -1,6 +1,6 @@
 ## :information_source: About Me 
 
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>][linkedin]
+[<img align="left" alt="prince-simba | LinkedIn" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="prince-simba-portfolio | website" width="33px" src="https://github.com/KariSims/KariSims/blob/main/website.svg" alt="web site Badge"/>][web-site]
 
   **Hi there, nice to meet you!** 👋
