@@ -1,7 +1,7 @@
 ## :information_source: About Me 
 
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>][linkedin]
-[<img src="https://github.com/karisims" alt="LinkedIn Badge"/>][linkedin]
+[<img src="https://github.com/KariSims/KariSims/blob/main/website.svg" alt="web site Badge"/>][web-site]
 
   **Hi there, nice to meet you!** 👋
   
