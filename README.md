@@ -1,8 +1,6 @@
 ## :information_source: About Me 
 
-<div id="badges">
-  [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>][linkedin]
-</div>
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>][linkedin]
 
 
   **Hi there, nice to meet you!** 👋
