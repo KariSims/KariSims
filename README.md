@@ -39,7 +39,7 @@ I assist individuals and companies in designing studies, including market resear
 :paperclip: Processing and Analysis : Python, R (Shiny, etc.), SPSS, CSPro, [QGIS](https://qgis.org/)<br>
 :paperclip: Visualisation : Python, R (Shiny, etc.), Power BI<br>
 
-### :pushpin: IT, as skills :<br>
+### :pushpin: IT skills :<br>
 :paperclip: Database design and management (Relational and NOSql) <br>
 :paperclip: Data Warehouse Management <br>
 :paperclip: Web and Mobile Programming(Ionic, Cordova) <br>
