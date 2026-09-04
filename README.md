@@ -3,9 +3,9 @@
 [<img align="left" alt="prince-simba | LinkedIn" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="prince-simba-portfolio | website" width="38px" src="https://github.com/KariSims/KariSims/blob/main/website.svg" alt="web site Badge"/>][web-site]
 
-  **Hi there, nice to meet you!** 👋
+  **Hi there,** 👋
   
-  **I'm KariSims, Data Scientist
+  **I'm KariSims, Data Scientist**
   
 I'm not really great at writing introductions, please bear with me
 
